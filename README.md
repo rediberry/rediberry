@@ -22,6 +22,7 @@ A developer focused on creating beautiful and user friendly applications while w
 🗄 Backend: ![MySQL](https://img.shields.io/badge/-MySQL-orange?logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-purple?logo=php)
 ![Firebase](https://img.shields.io/badge/-Firebase-yellow?logo=firebase)
+![C#](https://img.shields.io/badge/-C%23-blueviolet?logo=c-sharp)
 
 ⚙️ Other: ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?logo=github)
