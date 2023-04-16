@@ -9,9 +9,6 @@ A developer focused on creating beautiful and user friendly applications while w
 💻: Front-end React developer @ Coderhouse</br>
 :mailbox: How to reach me: <a href="mailto:eric.aguerreberry@gmail.com">eric.aguerreberry@gmail.com</a>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rediberry&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rediberry&theme=github_dark&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- | 
-
 ## Tech Stack
 
 🌐 Frontend: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
@@ -29,4 +26,5 @@ A developer focused on creating beautiful and user friendly applications while w
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?logo=github)
 ![WordPress](https://img.shields.io/badge/-WordPress-blue?logo=wordpress)
 
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rediberry&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rediberry&theme=github_dark&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- | 
