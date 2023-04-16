@@ -13,10 +13,11 @@ A developer focused on creating beautiful and user friendly applications while w
 
 🌐 Frontend: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?logo=react)
-![Sass](https://img.shields.io/badge/-Sass-pink?logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap)
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-pink?logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap)
+
 
 🗄 Backend: ![MySQL](https://img.shields.io/badge/-MySQL-orange?logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-purple?logo=php)
