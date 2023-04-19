@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Eric
 A developer focused on creating beautiful and user friendly applications while writing clean code.
 
-[![Website](https://img.shields.io/badge/WIP-grey?style=for-the-badge&url=https%3A%2F%2FPortfolio)](https://rediberry.github.io/Ericberry.dev/)
+[![Website](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&url=https%3A%2F%2FPortfolio)](https://rediberry.github.io/Ericberry.dev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/kevin-feng-87a174202/)
 
 👨‍🎓: BS in Information Technology @ Universidad de Buenos Aires, Argentina</br>
