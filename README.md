@@ -13,20 +13,19 @@ A developer focused on creating beautiful and user friendly applications while w
 
 🌐 Frontend: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?logo=react)
+![Astro](https://img.shields.io/badge/-Astro-white?logo=astro)
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-pink?logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap)
 
 
-🗄 Backend: ![MySQL](https://img.shields.io/badge/-MySQL-orange?logo=mysql)
-![PHP](https://img.shields.io/badge/-PHP-purple?logo=php)
+
+🗄 Backend:
 ![Firebase](https://img.shields.io/badge/-Firebase-yellow?logo=firebase)
-![C#](https://img.shields.io/badge/-C%23-blueviolet?logo=c-sharp)
+
 
 ⚙️ Other: ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?logo=github)
-![WordPress](https://img.shields.io/badge/-WordPress-blue?logo=wordpress)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rediberry&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rediberry&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- | 
