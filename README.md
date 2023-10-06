@@ -3,7 +3,7 @@
 A developer focused on creating beautiful and user friendly applications while writing clean code.
 
 [![Website](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&url=https%3A%2F%2FPortfolio)](https://rediberry.github.io/Ericberry.dev/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/kevin-feng-87a174202/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/eric-aguerreberry/)](https://www.linkedin.com/in/eric-aguerreberry/)
 
 👨‍🎓: BS in Information Technology @ Universidad de Buenos Aires, Argentina</br>
 💻: Front-end React developer @ Coderhouse</br>
